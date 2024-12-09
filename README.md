@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bharathbalaji1261
+- 👋 Hi, I’m @bharath
 - 👀 I’m interested in computer vision and embedded systems
 - 🌱 I’m currently learning Bachelors of engineering
 
